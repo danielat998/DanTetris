@@ -1,0 +1,9 @@
+*******if you hold down down button, can go through bottom
+*******pieces randomly stay in air (still doing this??)
+*******pieces rotate weirdly///
+*******sometimes pieces seem to take a while to appear...(maybe referencing array with [y][x] somewhere?)
+random pieces disappear when clearing lines
+can't rotate near sides... on RHS, exceptions thrown, lhs does weird shit
+??
+other todo:
+add colours!!
